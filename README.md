@@ -1,11 +1,11 @@
-# laywright-cucumber-BDD
+# Playwright-cucumber-BDD
 
 **Installation**
 
 **To install dependencies**
 
 ```console
-npm ci
+npm install
 ```
 
 
