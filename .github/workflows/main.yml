@@ -17,6 +17,8 @@ jobs:
         run: npm ci
       - name: Run Playwright tests
         run: npm run test:staging @todo
+      - name: Run HTML Reporter
+        run: npm run report
       - uses: actions/upload-artifact@v3
         if: always()
         with:
