@@ -1,3 +1,5 @@
+[![Playwright Tests](https://github.com/vijayravindran90/playwright-cucumber-bdd/actions/workflows/main.yml/badge.svg)](https://github.com/vijayravindran90/playwright-cucumber-bdd/actions/workflows/main.yml)
+
 # Playwright-cucumber-BDD
 
 **Installation**
